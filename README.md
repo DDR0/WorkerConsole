@@ -1,3 +1,5 @@
+**OBSOLETE**: This behaviour is now standard in all modern browsers.
+
 Include the WorkerConsole.js script at the top of your HTML files and
 your Web Worker threads should be able to use console.log() to generate
 debugging output. This is just at the proof-of-concept stage, however,
